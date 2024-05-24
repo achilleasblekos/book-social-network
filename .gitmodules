@@ -1,0 +1,3 @@
+[submodule "book-network-front"]
+	path = book-network-front
+	url = https://github.com/achilleasblekos/book-social-network.git
